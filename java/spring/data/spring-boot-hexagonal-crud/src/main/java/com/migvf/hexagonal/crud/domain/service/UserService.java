@@ -1,9 +1,9 @@
-package com.baeldung.hexagonal.crud.domain.service;
+package com.migvf.hexagonal.crud.domain.service;
 
-import com.baeldung.hexagonal.crud.domain.entity.User;
-import com.baeldung.hexagonal.crud.domain.ports.exception.UserNotFoundException;
-import com.baeldung.hexagonal.crud.domain.ports.incoming.UserManagementPort;
-import com.baeldung.hexagonal.crud.infrastructure.persistence.UserRepository;
+import com.migvf.hexagonal.crud.domain.entity.User;
+import com.migvf.hexagonal.crud.domain.ports.exception.UserNotFoundException;
+import com.migvf.hexagonal.crud.domain.ports.incoming.UserManagementPort;
+import com.migvf.hexagonal.crud.infrastructure.persistence.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

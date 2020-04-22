@@ -1,7 +1,7 @@
-package com.baeldung.hexagonal.crud.application.mapper;
+package com.migvf.hexagonal.crud.application.mapper;
 
-import com.baeldung.hexagonal.crud.application.dto.UserDto;
-import com.baeldung.hexagonal.crud.domain.entity.User;
+import com.migvf.hexagonal.crud.application.dto.UserDto;
+import com.migvf.hexagonal.crud.domain.entity.User;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,4 +1,4 @@
-package com.baeldung.hexagonal.crud;
+package com.migvf.hexagonal.crud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

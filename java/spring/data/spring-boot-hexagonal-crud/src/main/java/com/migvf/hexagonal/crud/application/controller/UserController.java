@@ -1,7 +1,7 @@
-package com.baeldung.hexagonal.crud.application.controller;
+package com.migvf.hexagonal.crud.application.controller;
 
-import com.baeldung.hexagonal.crud.application.dto.UserDto;
-import com.baeldung.hexagonal.crud.application.usecase.UserUseCase;
+import com.migvf.hexagonal.crud.application.dto.UserDto;
+import com.migvf.hexagonal.crud.application.usecase.UserUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

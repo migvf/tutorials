@@ -1,4 +1,4 @@
-package com.baeldung.hexagonal.crud.domain.entity;
+package com.migvf.hexagonal.crud.domain.entity;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;

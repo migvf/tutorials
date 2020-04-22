@@ -1,4 +1,4 @@
-package com.baeldung.hexagonal.crud.application.dto;
+package com.migvf.hexagonal.crud.application.dto;
 
 import lombok.Data;
 

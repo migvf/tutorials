@@ -1,8 +1,8 @@
-package com.baeldung.hexagonal.crud.application.usecase;
+package com.migvf.hexagonal.crud.application.usecase;
 
-import com.baeldung.hexagonal.crud.application.dto.UserDto;
-import com.baeldung.hexagonal.crud.application.mapper.UserMapper;
-import com.baeldung.hexagonal.crud.domain.service.UserService;
+import com.migvf.hexagonal.crud.application.dto.UserDto;
+import com.migvf.hexagonal.crud.application.mapper.UserMapper;
+import com.migvf.hexagonal.crud.domain.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.util.Assert;
